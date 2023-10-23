@@ -1,4 +1,10 @@
 ![MasterHead](https://share.creavite.co/qWcVdlpkky8TDHx3.gif?style=plastic)
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mrnavi16/mrnavi16/master/githubName.svg" alt="Mr Navneet" />
+</h1>
+
 <h1 align="center">Hlo :) 👋,I'm Mr. Navneet :) -- code-sleep-error-repeat :> -- </h1>
 <h3 align="center">A passionate 🔭MERN STACK Developer 🤹🏻Learning Never Exhausts the Mind :)</h3>
 <img align="right" alt="Mr Noob Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
