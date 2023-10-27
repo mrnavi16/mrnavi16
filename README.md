@@ -1,4 +1,4 @@
-![MasterHead](https://share.creavite.co/qWcVdlpkky8TDHx3.gif?style=plastic)
+
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/mrnavi16/mrnavi16/master/githubName.svg" alt="Mr. Navneet" />
